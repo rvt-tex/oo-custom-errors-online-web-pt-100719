@@ -31,5 +31,5 @@ beyonce.get_married("Jay-Z")
 puts beyonce.name
 
 
-
+#this was creating and rescing custom errors messages
 
